@@ -107,7 +107,7 @@ export const projects = [
     image: Portfolio,
     tech: ["React.js", "Tailwind CSS", "Framer Motion", "JavaScript"],
     demoLink: "https://github.com/SaniahMalik",
-    codeLink: "https://github.com/SaniahMalik"
+    codeLink: "https://github.com/SaniahMalik/My-Portfolio"
   },
   {
   title: "Hangman Game (8086 Assembly)",
